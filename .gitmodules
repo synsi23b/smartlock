@@ -1,0 +1,3 @@
+[submodule "espbase"]
+	path = espbase
+	url = git@github.com:synsi23b/espbase.git
